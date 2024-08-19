@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <title>My Website</title>
-    </head>
-        <body>
-            <p>Cell: (719)111-1111</p>
-            <address>
-                <p>Email: <a href="mailto:johndoe@gmail.com">johndoe@gmail.com</a></p>
-            </address>
-            <p>Social Media: <a href="https://www.facebook.com/">Facebook</a></p>
-        </body>
-</html>
+<p>Cell: (719)111-1111</p>
+<address>
+<p>Email: <a href="mailto:johndoe@gmail.com">johndoe@gmail.com</a></p>
+</address>
+<p>Social Media: <a href="https://www.facebook.com/">Facebook</a></p>
